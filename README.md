@@ -20,9 +20,10 @@ The Procrastination Buster App is a productivity tool designed to help individua
 
 - Vue JS
 - Pinia
-- Vite
+- Vite / Webpack
 - Vuetify
 - Vue Test Utils (Jest)
+- Firebase
 - JavaScript
 - SASS
 - Bootstrap
@@ -34,7 +35,7 @@ The Procrastination Buster App is a productivity tool designed to help individua
 
 ## 🌱 Currently Learning
 
-- Firebase
+- TypeScript
 - Tailwind
 
 ## 📫 Let's Connect
