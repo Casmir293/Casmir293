@@ -18,25 +18,36 @@ The Procrastination Buster App is a productivity tool designed to help individua
 
 ## 💻 Skills and Technologies
 
-- Vue JS
-- Pinia
-- Vite / Webpack
-- Vuetify
-- Vue Test Utils (Jest)
-- Firebase
+### Languages
 - JavaScript
-- SASS
-- Bootstrap
-- CSS
-- HTML
-- Git & GitHub
-- WordPress
-- CorelDRAW
-
-## 🌱 Currently Learning
-
 - TypeScript
-- Tailwind
+- PHP
+
+### Frameworks
+- Vue.js
+- Pinia
+- Vuetify
+- Nuxt
+- SASS/SCSS
+- Tailwind CSS
+- Bootstrap
+- Laravel
+- Firebase
+
+### Testing
+- Vue Test Utils (Jest)
+
+### Version Control
+- Git & GitHub
+
+### Application Programming Interface
+- REST API
+
+### Database Management
+- MySQL
+
+### Content Management System
+- WordPress
 
 ## 📫 Let's Connect
 
