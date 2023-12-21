@@ -35,7 +35,9 @@ The Procrastination Buster App is a productivity tool designed to help individua
 - Firebase
 
 ### Testing
-- Vue Test Utils (Jest)
+#### Vue Test Utils 
+- Jest
+- Vitest
 
 ### Version Control
 - Git & GitHub
