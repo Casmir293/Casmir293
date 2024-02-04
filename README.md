@@ -1,6 +1,7 @@
 # Hi there, I'm Onyeka Casmir! 👋
 
 Welcome to my GitHub repository! This is where I showcase some of my exciting projects and contributions in the world of web development.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=casmir293&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🚀 Some Featured Projects
 
