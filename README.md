@@ -11,6 +11,8 @@ Welcome to my page! I'm a passionate software developer with three years of prof
 ### Languages and tools 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -30,8 +32,8 @@ Welcome to my page! I'm a passionate software developer with three years of prof
 
 
 ### My Github Stats 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dracula&show_icons=true&locale=en" /> <br>
+<p align="">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dracula&show_icons=true&locale=en&layout=compact"/> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dracula&show_icons=true&locale=en" /> <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dracula" />
 </p>
