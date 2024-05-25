@@ -44,7 +44,7 @@ Welcome to my page! I'm a passionate software developer with three (3) years of 
 
 ### My Github Stats 
 <p align="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dracula&show_icons=true&locale=en&layout=compact"/> <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dracula&show_icons=true&locale=en" /> <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dark&show_icons=true&locale=en&layout=compact"/>  <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dark&show_icons=true&locale=en" /> <br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dark" />
 </p>
