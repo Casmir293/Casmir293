@@ -39,9 +39,8 @@ Welcome to my page! I'm a passionate software developer with three (3) years of 
 #### Others
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/WordPress.com/WordPress.com-Logo.wine.svg" alt="wordpress" width="40" height="40"/></a>
+        alt="mysql" width="40" height="40" /></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img
+        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img       src="https://www.logo.wine/a/logo/WordPress.com/WordPress.com-Logo.wine.svg" alt="wordpress" width="40" height="40"/></a>
 
 ### My Github Stats 
 <p align="">
