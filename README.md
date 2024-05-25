@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.postimg.cc/7hVQv7Dz/IMG-4578-2.avif" alt='svg banner' width=100% height=10%/> 
+<img src="https://i.postimg.cc/6QvjWFtt/IMG-4578-2.avif" alt='svg banner' width=100% height=10%/> 
 </p>
 
 <h1 align=""> Hi 👋, I'm Casmir Onyeka </h1>
