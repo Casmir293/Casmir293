@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.postimg.cc/L8BF9qTx/IMG-4578.avif" alt='svg banner' width=100% height=30%/> 
+</p>
+
 <h1 align=""> Hi 👋, I'm Casmir Onyeka </h1>
 <h3 align="">Full-Stack Software Developer</h3>
 
