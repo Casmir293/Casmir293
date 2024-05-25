@@ -1,12 +1,11 @@
 <h1 align=""> Hi 👋, I'm Casmir Onyeka </h1>
-<h3 align="">Full-Stack Software Developer</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=casmir293&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="count badge" /> </p> 
+<h3 align="">Full-Stack Software Developer</h3>
 
+Welcome to my page! I'm a passionate software developer with three (3) years of professional experience. Feel free to explore my profile and get in touch to discuss how I can participate in bringing your next project to life.
 
-Welcome to my page! I'm a passionate software developer with three years of professional experience. Feel free to explore my profile and get in touch to discuss how I can participate in bringing your next project to life.
-
+- 👨‍💻 Some of my projects are available at [Casmir's profile](https://www.casmir.dev/)
 - 🌱 I’m currently learning Laravel
-- 👨‍💻 All of my projects are available at [Casmir's profile](https://www.casmir.dev/) 
-- 📫 How to reach me  **casmir293@gmail.com** 
+- 📫 Reach me at **casmir293@gmail.com** 
 
 ### Languages and tools 
 #### Frontend
@@ -31,7 +30,7 @@ Welcome to my page! I'm a passionate software developer with three years of prof
 
 ### My Github Stats 
 <p align="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dracula&show_icons=true&locale=en&layout=compact"/> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dracula&show_icons=true&locale=en" /> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dracula&show_icons=true&locale=en&layout=compact"/> <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dracula&show_icons=true&locale=en" /> <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dracula" />
 </p>
