@@ -40,7 +40,7 @@ Welcome to my page! I'm a passionate software developer with three (3) years of 
         alt="vuejs" width="40" height="40" /> </a>
 
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" /> </a>
+        src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png" alt="nuxtjs" width="40" height="40" /> </a>
 
 #### Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
