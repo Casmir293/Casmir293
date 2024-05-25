@@ -1,5 +1,5 @@
-<h1 align="center"> Hi 👋, I'm Casmir Onyeka </h1>
-<h3 align="center">Full-Stack Software Developer</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=casmir293&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="count badge" /> </p> 
+<h1 align=""> Hi 👋, I'm Casmir Onyeka </h1>
+<h3 align="">Full-Stack Software Developer</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=casmir293&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="count badge" /> </p> 
 
 
 Welcome to my page! I'm a passionate software developer with three years of professional experience. Feel free to explore my profile and get in touch to discuss how I can participate in bringing your next project to life.
