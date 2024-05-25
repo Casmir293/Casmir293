@@ -4,7 +4,7 @@
 Welcome to my page! I'm a passionate software developer with three (3) years of professional experience. Feel free to explore my profile and get in touch to discuss how I can participate in bringing your next project to life.
 
 - 👨‍💻 Some of my projects are available at [Casmir's devfolio](https://www.casmir.dev/).
-- 🔭 At the moment, I'm working on [Young-Stars-FC-Blog](https://github.com/Casmir293/Young-Stars-FC-Blog), a blog for a local football team. 
+- 🔭 At the moment, I'm building [Young-Stars-FC-Blog](https://github.com/Casmir293/Young-Stars-FC-Blog), a blog for a local football team. 
 - 🌱 I’m currently learning Laravel.
 - 📄 Know about my experiences via [my résumé](https://drive.google.com/file/d/1llcpu3NqoCcJ-X_y2f9jtRuu7n0yv8-E/view).
 - 📫 Reach me at **casmir293@gmail.com** 
@@ -37,9 +37,11 @@ Welcome to my page! I'm a passionate software developer with three (3) years of 
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
 
 #### Others
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-<a href="" target="" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/WordPress.com/WordPress.com-Logo.wine.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
+        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+    </a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/WordPress.com/WordPress.com-Logo.wine.svg" alt="sass" width="40" height="40"/> </a>
 
 ### My Github Stats 
 <p align="">
