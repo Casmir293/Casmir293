@@ -14,7 +14,8 @@ Welcome to my page! I'm a passionate software developer with three (3) years of 
 - ❤️ I'm in love with [Manchester United FC](https://www.manutd.com).
 - 📫 Reach me at **casmir293@gmail.com** 
 
-### Languages and tools 
+### Languages and Tools 
+I have good experience working with the following technologies and their common libraries/frameworks that can be installed along side.
 #### Frontend
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
