@@ -11,7 +11,7 @@ Welcome to my page! I'm a passionate software developer with three (3) years of 
 - 🔭 At the moment, I'm building [Young-Stars-FC-Blog](https://github.com/Casmir293/Young-Stars-FC-Blog), a blog for a local football team. 
 - 🌱 I’m currently learning Laravel.
 - 📄 Know about my experiences via [my résumé](https://drive.google.com/file/d/1llcpu3NqoCcJ-X_y2f9jtRuu7n0yv8-E/view).
-- ❤️ I'm so in love with Manchester United FC ⚽️
+- ❤️ I'm in love with [Manchester United FC](https://www.manutd.com).
 - 📫 Reach me at **casmir293@gmail.com** 
 
 ### Languages and tools 
