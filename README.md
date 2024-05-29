@@ -53,6 +53,6 @@ I have good experience working with the following technologies and their common 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dark&show_icons=true&locale=en&layout=compact"/>  <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dark&show_icons=true&locale=en" /> <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dark" />
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casmir293&theme=dark" alt="casmir293" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casmir293" alt="casmir293" /></a> </p>
 
 </p>
