@@ -49,10 +49,9 @@ I have good experience working with the following technologies and their common 
         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img       src="https://www.logo.wine/a/logo/WordPress.com/WordPress.com-Logo.wine.svg" alt="wordpress" width="40" height="40"/></a>
 
 ### My Github Stats 
-<p align="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dark&show_icons=true&locale=en&layout=compact"/>  <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dark&show_icons=true&locale=en" /> <br><br>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dark" />
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casmir293&theme=discord&row=2&column=4" alt="casmir293" /></a> </p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dark&show_icons=true&locale=en" /> <br><br>
+<p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casmir293&theme=discord&row=2&column=4" alt="casmir293" /></a> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dark&show_icons=true&locale=en&layout=compact"/>  <br><br>
 </p>
