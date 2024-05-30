@@ -50,8 +50,8 @@ I have good experience working with the following technologies and their common 
 
 ### My Github Stats 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dark&show_icons=true&locale=en" /> <br><br>
-<p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casmir293&theme=discord&row=2&column=4" alt="casmir293" /></a> </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dark&show_icons=true&locale=en&layout=compact"/>  <br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dark" /> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dark&show_icons=true&locale=en" /> <br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casmir293&theme=discord&row=2&column=4" alt="casmir293" /></a> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dark&show_icons=true&locale=en&layout=compact"/>  <br><br>
 </p>
