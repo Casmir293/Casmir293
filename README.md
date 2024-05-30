@@ -50,8 +50,8 @@ I have good experience working with the following technologies and their common 
 
 ### My Github Stats 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dark" /> <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dark&show_icons=true&locale=en" /> <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dark&show_icons=true&locale=en&layout=compact"/>  <br>
 <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casmir293&theme=discord&row=2&column=4" alt="casmir293" /></a> <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dark&show_icons=true&locale=en&layout=compact"/>  <br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dark&show_icons=true&locale=en" /> <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dark" /> <br><br>
 </p>
