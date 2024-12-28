@@ -3,13 +3,12 @@
 </p>
 
 <h1 align=""> Hi 👋, I'm Casmir Onyeka </h1>
-<h3 align="">Full-Stack Software Developer</h3>
+<h3 align="">Fullstack Developer</h3>
 
 Welcome to my page! I'm a passionate software developer with three (3) years of professional experience. Feel free to explore my profile and get in touch to discuss how I can participate in bringing your next project to life.
 
 - 👨‍💻 Some of my projects are available at [Casmir's devfolio](https://www.casmir.dev/).
-- 🔭 At the moment, I'm building [Young-Stars-FC-Blog](https://github.com/Casmir293/Young-Stars-FC-Blog), a blog for a local football team. 
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently perfecting my Laravel experience.
 - 📄 Know about my experiences via [my résumé](https://drive.google.com/file/d/1llcpu3NqoCcJ-X_y2f9jtRuu7n0yv8-E/view).
 - ❤️ I'm in love with [Manchester United FC](https://www.manutd.com).
 - 📫 Reach me at **casmir293@gmail.com** 
@@ -34,7 +33,8 @@ I have good experience working with the following technologies and their common 
         alt="typescript" width="40" height="40" /></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
         alt="vuejs" width="40" height="40" /></a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img
-        src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" /></a>
+        src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" /></a> <a href="https://vuetifyjs.com/en" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/vuetify.svg" alt="vuetify" width="40" height="40" /></a>
 
 #### Backend
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img
