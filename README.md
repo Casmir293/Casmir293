@@ -37,6 +37,9 @@ I have good experience working with the following technologies and their common 
         src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/vuetify.svg" alt="vuetify" width="40" height="40" /></a>
 
 #### Backend
+<a href="https://laravel.com/docs/" target="_blank" rel="noreferrer"><img
+        src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40"
+        height="40" /></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
         height="40" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
