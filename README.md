@@ -34,7 +34,7 @@ I have good experience working with the following technologies and their common 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
         alt="vuejs" width="40" height="40" /></a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img
         src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" /></a> <a href="https://vuetifyjs.com/en" target="_blank" rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/vuetify.svg" alt="vuetify" width="40" height="40" /></a>
+        src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vuetifyjs.svg" alt="vuetify" width="40" height="40" /></a>
 
 #### Backend
 
