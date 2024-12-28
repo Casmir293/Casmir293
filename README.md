@@ -8,7 +8,7 @@
 Welcome to my page! I'm a passionate software developer with three (3) years of professional experience. Feel free to explore my profile and get in touch to discuss how I can participate in bringing your next project to life.
 
 - 👨‍💻 Some of my projects are available at [Casmir's devfolio](https://www.casmir.dev/).
-- 🌱 I’m currently perfecting my Laravel experience.
+- 🌱 I’m looking forward to learn Flutter (Dart) for mobile app development in 2025.
 - 📄 Know about my experiences via [my résumé](https://drive.google.com/file/d/1llcpu3NqoCcJ-X_y2f9jtRuu7n0yv8-E/view).
 - ❤️ I'm in love with [Manchester United FC](https://www.manutd.com).
 - 📫 Reach me at **casmir293@gmail.com** 
