@@ -10,7 +10,7 @@ Welcome to my page! I'm a passionate software developer with three (3) years of 
 
 - 👨‍💻 Some of my projects are available at [Casmir's devfolio](https://www.casmir.dev/).
 - 🌱 I’m looking forward to learn Flutter (Dart) for mobile app development in 2025.
-- 📄 Know about my experiences via [my résumé](https://drive.google.com/file/d/1llcpu3NqoCcJ-X_y2f9jtRuu7n0yv8-E/view).
+- 📄 Know about my experiences via [my résumé](https://drive.google.com/file/d/1QSYV5ViOy1iLaJSHfVp2eb6-zqsGfiD3/view).
 - ❤️ I'm in love with [Manchester United FC](https://www.manutd.com).
 - 📫 Reach me at **casmir293@gmail.com** 
 
