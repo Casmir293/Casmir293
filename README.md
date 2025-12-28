@@ -6,22 +6,19 @@
 <h1 align=""> Hi 👋, I'm Casmir Onyeka </h1>
 <h3 align="">Fullstack Developer</h3>
 
-Welcome to my page! I'm a passionate software developer with three (3) years of professional experience. Feel free to explore my profile and get in touch to discuss how I can participate in bringing your next project to life.
+Welcome to my page! I'm a passionate software developer with three (3) years of professional experience. Feel free to explore my profile and get in touch.
 
 - 👨‍💻 Some of my projects are available at [Casmir's devfolio](https://www.casmir.dev/).
-- 🌱 I’m looking forward to learn Flutter (Dart) for mobile app development in 2025.
-- 📄 Know about my experiences via [my résumé](https://drive.google.com/file/d/1QSYV5ViOy1iLaJSHfVp2eb6-zqsGfiD3/view).
+- 🌱 I’m looking forward to learn Flutter (Dart) for mobile app development in 2026.
+- 📄 Know about my experiences via [my résumé](https://drive.google.com/file/d/1X0ah7aY6Kwm_wyot9kvfXDYgAnpHSW2e/view).
 - ❤️ I'm in love with [Manchester United FC](https://www.manutd.com).
 - 📫 Reach me at **casmir293@gmail.com** 
 
 ### Languages and Tools 
-I have good experience working with the following technologies and their common libraries/frameworks that can be installed along side.
+I have good experience working with the following technologies and their common libraries/frameworks.
+
 #### Frontend
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" /></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-        width="40" height="40" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
         width="40" height="40" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img
         src="https://en.vetores.org/d/bootstrap.svg"
@@ -38,13 +35,20 @@ I have good experience working with the following technologies and their common 
         src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vuetifyjs.svg" alt="vuetify" width="40" height="40" /></a>
 
 #### Backend
-
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
         height="40" /></a> <a href="https://laravel.com/docs/" target="_blank" rel="noreferrer"><img
         src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40"
         height="40" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+        src="https://www.vectorlogo.zone/logos/supabase/supabase" alt="supabase" width="40" height="40" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
+
+#### Mobile
+  <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg"
+        alt="capacitor" width="40" height="40" /></a> <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img
+        src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"
+        alt="ionic" width="40" height="40" /></a> 
 
 #### Others
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
