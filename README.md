@@ -40,18 +40,20 @@ I have good experience working with the following technologies and their common 
         height="40" /></a> <a href="https://laravel.com/docs/" target="_blank" rel="noreferrer"><img
         src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40"
         height="40" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/supabase/supabase" alt="supabase" width="40" height="40" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+        src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
 
 #### Mobile
   <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg"
         alt="capacitor" width="40" height="40" /></a> <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img
-        src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"
+        src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"
         alt="ionic" width="40" height="40" /></a> 
 
 #### Others
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
+  <a href="https://inertiajs.com" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inertiajs/inertiajs-original-wordmark.svg"
+        alt="inertia" width="40" height="40" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40" /></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img
         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img       src="https://www.logo.wine/a/logo/WordPress.com/WordPress.com-Logo.wine.svg" alt="wordpress" width="40" height="40"/></a>
