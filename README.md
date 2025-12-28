@@ -39,7 +39,7 @@ I have good experience working with the following technologies and their common 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
         height="40" /></a> <a href="https://laravel.com/docs/" target="_blank" rel="noreferrer"><img
         src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40"
-        height="40" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+        height="40" /></a> <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
 
@@ -61,8 +61,8 @@ I have good experience working with the following technologies and their common 
 ### My Github Stats
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dark&show_icons=true&locale=en&layout=compact"/>  <br>
-<a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casmir293&theme=discord&row=2&column=4" alt="casmir293" /></a> <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dark&show_icons=true&locale=en" /> <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dark" /> <br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=casmir293&theme=dark&show_icons=true&locale=en&layout=compact" alt="github stats" />  <br>
+<a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casmir293&theme=discord&row=2&column=4" alt="my profile trophy" /></a> <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=casmir293&theme=dark&show_icons=true&locale=en" alt="github stats" /> <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=casmir293&theme=dark" alt="github streak" /> <br><br>
 </p>
